@@ -86,7 +86,7 @@ export default function Component() {
                 <Droplets className='h-12 w-12 text-amber-600 mb-4' />
                 <h3 className='text-xl font-bold mb-2'>Exterior Painting</h3>
                 <p className='text-amber-800'>
-                  Protect and beautify your home's exterior with our durable,
+                  Protect and beautify your home&apos;s exterior with our durable,
                   weather-resistant paints.
                 </p>
               </div>
